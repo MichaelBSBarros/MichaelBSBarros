@@ -15,11 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelBSBarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div> 
-  <a href = "mailto:s.barros.michael@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/michael-barros-53b448159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 ## Tecnologias que geralmente uso no meu dia
 
 <div style="display: inline_block">
