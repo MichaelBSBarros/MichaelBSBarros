@@ -14,7 +14,7 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-## Contacto
+## Contato
 
 <div> 
   <a href = "mailto:s.barros.michael@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
