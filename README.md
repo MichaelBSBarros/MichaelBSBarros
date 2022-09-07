@@ -16,7 +16,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
 </div><br/>
 
-## Quer me contactar?
+## Contacto
 
 <div> 
   <a href = "mailto:s.barros.michael@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
